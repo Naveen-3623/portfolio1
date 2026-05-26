@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Portfolio logo">
+  <defs>
+    <linearGradient id="ring" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1a5cff" />
+      <stop offset="100%" stop-color="#5e8cff" />
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="22" fill="#080808" />
+  <rect x="8" y="8" width="112" height="112" rx="18" fill="none" stroke="url(#ring)" stroke-width="6" />
+  <path d="M29 95V33h13l30 41V33h13v62H72L42 54v41H29z" fill="#f8f8f8" />
+  <circle cx="101" cy="27" r="6" fill="#1a5cff" />
+</svg>
